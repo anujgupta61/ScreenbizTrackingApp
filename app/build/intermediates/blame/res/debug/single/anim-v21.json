@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/anuj/.android/build-cache/5194f56ec862d1cc742731ab39d1d6ce854cda97/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/anuj/.android/build-cache/5194f56ec862d1cc742731ab39d1d6ce854cda97/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

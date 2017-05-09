@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/anuj/.android/build-cache/6ef7f521f19471c63c1d273a90e39754074be3e4/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

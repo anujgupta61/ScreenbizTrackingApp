@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Screenbiz Tracking App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="home">HOME</string>
+    <string name="history">History</string>
+    <string name="choose_tid">Choose Technician ID - </string>
+    <string name="distance">Distance travelled -  </string>
+    <string name="detailed_history">Detailed History</string>
+
+    <string-array name="tech_ids">
+        <item>SB1</item>
+        <item>SB2</item>
+        <item>SB3</item>
+        <item>SB4</item>
+        <item>SB5</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Date - 30/04/2017</item>
+        <item>Date - 30/04/2017</item>
+        <item>Date - 30/04/2017</item>
+        <item>Date - 30/04/2017</item>
+        <item>Date - 30/04/2017</item>
+    </string-array>
+
+    <string-array name="dists">
+        <item>Distance - 12 kms</item>
+        <item>Distance - 12 kms</item>
+        <item>Distance - 12 kms</item>
+        <item>Distance - 12 kms</item>
+        <item>Distance - 12 kms</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>Time - 5 hrs</item>
+        <item>Time - 5 hrs</item>
+        <item>Time - 5 hrs</item>
+        <item>Time - 5 hrs</item>
+        <item>Time - 5 hrs</item>
+    </string-array>
+</resources>
