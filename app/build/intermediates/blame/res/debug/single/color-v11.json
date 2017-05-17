@@ -1,10 +1,10 @@
 [
     {
         "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/anuj/.android/build-cache/42f9218f15869757684c7530cf0238b0399524b7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/home/anuj/.android/build-cache/42f9218f15869757684c7530cf0238b0399524b7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

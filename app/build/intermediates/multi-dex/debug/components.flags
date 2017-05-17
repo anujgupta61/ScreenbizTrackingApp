@@ -1,7 +1,7 @@
 -injars /home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
 -outjars /home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/multi-dex/debug/componentClasses.jar
 
--libraryjars /home/anuj/Android/Sdk/build-tools/25.0.3/lib/shrinkedAndroid.jar
+-libraryjars /home/anuj/build-tools/25.0.3/lib/shrinkedAndroid.jar
 
 -forceprocessing
 -dontoptimize

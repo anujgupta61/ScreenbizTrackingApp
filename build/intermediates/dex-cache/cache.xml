@@ -2,175 +2,220 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/a7be9161a5895786e3190e36620646206bc1b506/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/fcec740f1a45c49546a065672e1c77bf8fa6fa28/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9edf3af12e9ba7730955e98c61321103afbca14e.jar" />
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ff199c5340dd167306b3cec6f81275fd736e534/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/9007c3abc24f44761c56ffb42cdeac1c74b939ab/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_613944de8449e69d75b0ccfb52f3ff09c0d944c1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/24914099790f81a769679b776ce0dbb069b7d33f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a6edf749d1e3e75fd2f28bb997c79d084242b534.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/7889c23519dc74bad92c66ae71c7ae187ad83348/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_78f6f637b471425d643ed1c6d759d9dda02a7343.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/eb05044f0e634daf7556190471d3e2e3287f9338/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_66083973cf3e19620528c54f6f50f84ce0aec14c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5272f3a3fa72d97d0a70dc6f063d5b234b403c08/output/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_48c62a0076e89a4bc368d414d080e6dcff21805f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6e98df7ab2979f3468839f898b021eb8f215bd7d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_285c959961fbcfaa458efbf6874c66639e380c9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_fb4a6eb9bee8e881d7a9c9349bc50a8ffefbb1a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/de7d945469e9150679275f86e21e3df213cd768f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="54933c89f90a872aa342004e82b23e776fe12736">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_0c2d0a937522d63caa1e01fb29ff3da3949d0405.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5272f3a3fa72d97d0a70dc6f063d5b234b403c08/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_f43e90a6e7de59c7e6e226281a814932de481f60.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/403cced13cb6b3524823ab3e4b3a18d6740103f6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_e675dd47ceb501e2dbea89b6a2d3031389d75dba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/e016e80e1c9a69513d5253d4670cdda0773296e3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_132af8370765ebbd3d82b8100ff5e9c2bffa86db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/c0e9ca3dd0af67e675b71f0937bb70d709459a2b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9fa4123f4dc0b5b1cf87f4d04754ee691d817973.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/2268f317a27864c3766d504298bc08200ea92826/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_4c28604186dd53b260c422b387823c33602dc639.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6f116e49f4b5340290348f1c5cec834b5d2870e0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_d5b735c5362e6d02820a593382ef4e366b06502d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/96e5b257aef2086540c4d309d5cba06a737eb652/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/ac85d03de1c48a379a8035d5153334bc91f3395b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_f0f896f4b72fb09fefa8c580a3f97ba6c8e5b9c0.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b1d221f8f109554d42fcf2f00459a9dd5bdfa7a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6106594b4b060db348a7342fce93f3b71a125d3a/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/a9d03c034416dae8f358c31ea5f53632851c9d21/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_e27530e2e97845c593fb17963854a26bc9942070.jar" />
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_156962e6226cd83c83eb66e6eb66ff3765e0bc4e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/a5a14b7252784ba59b582fcd50fe2f5e3c39bc46/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/34267ff344e10a2a4d96037edc844ed90d2704bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4771811193535d7c92323d57095c23cfca32103c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/e1555b87dcc943a5e08c75a2af7dcce36bd98a22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3147e920114cccff7af8482d033eabb37979467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/47ec0fb3abc35cf327da4c27b161f7a8061ee139/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35e783dc92d2eeb0602d773a7dec7467c5fb4a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/9eaeae69e86e762cea1dc0d3b0f534b5f2484fdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c94ae1cff6268358b0ddad9be12fefdf8a5c1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/b11e205d3e416c9dad07da48f72922c986444a1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6b55199070359c584aa381200855e072782365f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1102f5b8f53b0ab8cafca32b36fc42bfb2f64f6a/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_558b63d000ac8f737cc07bf60c37599beac96e6a.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d369c80e039cfcd087265d716afedcb3312a488f/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5ec0428ebaf0eaded95488fd8271bc76a4415e65/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/4d071e8c4f279d24915c8253ce5df0088c5b4c2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37326866b4ccab58e42a579f57fd3a07c3e67b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/2efc4325eda760fc5fa04ac62304633214b65db1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_284b3978e210722fe04a832ac68479a4e7e3282b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/0f6f8d4ef36e227d4095890dcc2cf5dbf15d88b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_862a7cd934036a5fac12b2e48270e5615b8191bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/b0bda0291c53937032f56e9b823943bc9592201e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92d4138e754b71610f887e6040a4861abe861a11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/95d157d1ff8575591bcdae1b52ae8d37dd06e8cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7d8c05db86d88d38d15c152417093f496d69a63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/0ff86a24f9e4c9726181c6db370ce918603986bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_123e7164f1fbf9026f8ec36fb5bb6ad50792387b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/89a9e6c8316cbd7d5046d049c2596f99f50995d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70e509c72223b524b1cb579a641f5c9f73762447/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/da3e91a234a44014d1fd813eb4febeac8a9a52ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63b196f1aacee7a618ac19ac7ec5d598e497f6be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1f54a2b56ccee1744ca8be4ef4200500fc87c794/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="d66b8668122393a15c90471c5c974c25439d193a">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_e0ee00cee7594386874ff5b82bd64b2f48bd730f.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21215b0761a80176f3b74af00a208a74cf8a2a14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/593e384773fdd5f27785de70ae1e9f14f300e8f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_466b527349dc1e5ddc3451e480a817230a254d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/9e78c8016325352d57ace39520129729ee338c0c/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b99d6cec39daa0057203658ad6b73881bd0101bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1a26ff7e4f301ee682b8fde14ccac5a264e2336f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fccba6ca22a50150f845a0df2efee3b2f3c6815a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/dad025c7b8738728b0645db60bc9e1b7a6a30827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63bd83a19ff6b5b0b1e4bebe941b46c5c1fa9b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/41c3beca0ecd8f8cf61cb77a21a5d55ee7954381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e0ee31bcdf53c260641cee34fce0c0dbc9ea5fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1b35a199bc78c3206bd3f92acdf38fee32784861/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_445236cb1459565940540ab599710ff65b7a5e43/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -178,260 +223,197 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="b6a6bddc96193d03747a9621ebc7bc23b9f8bca0">
+        sha1="d81ebd12df769e9f97794f5c1cf6c96cd2f2b377">
         <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f5409be94d50d3613def9fde9fb99a7b1c509b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/403e52d41aea767cffd17abd729e51d2182d4e22/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/08df6ed7cff62eb3331b52d30601ee71918518c7/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_b74173cb8d9e3c5368cda907f0af801f79921b5c.jar" />
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_284e57626f8dbfddacee8529ad8fd309989f2722/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/12c978088a04e2120b2d565f4b3e5be253695483/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/8ab301c6852847a680d87c32ba311541cf2253a4/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_cd1051b908d1866cea9193af793de4823f8f2f00.jar" />
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c6afddd680e1190c409356412ec6a102014c32a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/ae19a2335a2e34005815bafd56e460c3e6ff243d/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/2b1a26d6ae4cc14627c8051f39ad358c5a021f98/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_6050936e57d17aae8f8d9b338994c52faefbee32.jar" />
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ea282b7103a4d4b1033d79638516a197f163b20/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/a3cfe6e1b6661222c76da31600f7195dac6b0081/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_e15f75efc1c9435b1d7f946a435e408cc66facf5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/08e2071056e332b79a548f2c4af38ba6981eccc7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9b2965ef28525465fd69f4e6e3ae5d8c47117664.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/52ab31ca9d23c2b99fa71b937110b65bd956e5e4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a11c1a546c5402bf0795ee93bcffa99bef2bd1a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/4f264cfbe20dac188086c41c68b8219265dd7fc5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_5323e38cee8c0cb67f88f30587ba00ab4e0c5689.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/d32c1e7679cd25c2fccca2c11e834b054412d84f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_bd56a778fcd6d00da3b89d8609d3ede8cb2cb91f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5647ae874e7307d9314924d8e637e4fad4292302/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dde643ce80b967f869e9b111255815ba4d391653">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_34f8c040e575d33dbe524278e368bca7064a158e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/f2ccebabc1f8ff799f2c55785bf13f944e098842/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a035aaa1af5509cbc72af129a0deb20295839cbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6ef7f521f19471c63c1d273a90e39754074be3e4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_505273e9ae9c8d3eadfe0d13126218e38ac7063d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/61b5d6c4f74c823a5e8eebb6c3ddba3775a536c9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a43312ac8973c014a82a7e281daefbf8d11efffd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/8e0e446393c01efd10b230ab094a8b9579c0df25/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_69a764f8ce004ebbd7b60b5054329ecdebaaf6d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/796252fc2b60d06aafa3e413dc73d1ba15497d54/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="8fdf15d202000492aefe43092b21af5332df0178">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_3e6e7d984094afcb99ae98c0e9b07a7cf7f738e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/cbe8fb010ad10480dcadadf873a1b68463e91555/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9ed1d90042ac72a55d8411528202204c34f39a1f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/16b646afb02d94fb631ee4eadecc1c040009aed1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_0dfa96b534d8eb784c8b50c6aa12b853b61ac656.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/aa8020ac39b447ab4c307224e1c6dd7eb9392088/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0e23941db151e67886844de6586e180bb2b860ad">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_ed9aafd6bf989b491f86303cc96bb1bfdb8f0dd7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/0000e1d37c15bcc540f9a733531abecac30fa33b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_719b8ab058256a6edd21ff844bcaab253d0e566c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/75c70e735332d261072a001a19e586acf6c4c560/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/009dfa2f0307a1f89b02c97f9934783b8ad3c46f/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a7631a408b7a4c0b3bc52e17f1faf07d8422b524.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f84adf23ee76ed76d92e2aefccc2db98eda147b1/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/54b7ac33fbb0b960a719564f4d8fd32062a88dc7/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4cc4339e19534b98e00e67f064694b6eb15ae3a8.jar" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de2dfc057bd4aef8ae480b7fbf7f6f267d5e134b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/277a904d726f193835bac2979614573449a64214/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/cb05b7cd5f2346c5ab1d7cf6074fa19c30ad130b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_249baa768474d6b234ab34cebf6ccb97946aad47.jar" />
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0210da22d55093cfec82c176263cc08f1c48f6b2/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/f501938bbc31d0fc3f21393d02433e398f6b0abb/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/37f68e4c920f9701f48efbd8d145d7d9f1766296/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cadb291e0047ca7ecada468dc45ed08b8cfdf3a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/e4d853c863a08ba22bff320cb096ae4fbad870da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a982c3227d75c5287b930a8b0d91c6b643f598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/4f50eae5d7f3afe00c5835a055568c3201d2a34b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_cb70e3d44be5192ca2a267a6bd2ab07374af36ec.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1217cda1398222a4b9b3fb63a73e9a621ee52e40/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6adb48ed558e4d98a235f2674292790831d255e7/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/b9e0cd7dcc9b88219cf27a3f3674fa9409193ea8/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_de95319f59d8ef1e01e35c7914216fbdfb844d17.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4bfb311c74beeeb8e88431b4e9781064c8a13b2/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/3f232b22d41f67f82e7d9f740ddeafa384dfb792/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_58fc1af65e07c94456cf9f7a7aa0d388f3c5c60e.jar" />
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2409e11739971e0a4365eed72301995efac81ec1/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/aac6ce6284e49fedeea3f323fd46b07cf5a46813/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_b3ae61fba16fce269b7ffba5e2d5e5841dee8045.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_cf514464442e38e6365978375e9b597c2565c4ae/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/686fd8f10f8450b5a5b15d52c707fa3632fc9303/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/4768bff7cf008bc1390049f8f7cbd09e75e456b6/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_db8855a1209826781726d47b0360a9aa7f2761c1.jar" />
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a38bf63dcbf35b18b934f0a10a5631a04c6840/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/2fdaa56f4ef4c9063f9d7a77eb78e6d5e41d0159/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/da00c0cdeff82c5f4cbbae6a8b5fe13c1fb945e3/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_c2738ca0a1a17441814e9ea0e63af98ba6a02992.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_631a167eec9c0c26426898371213c3a81032158d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/f9cb9b90f180c57185e1a0390e4a9235aaba74a8/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/3c8a99d2812142fd5ae3d78ded80cf9de977e0a0/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_d9d4b1d9f638aec8dd7808161405e591c6cf100e.jar" />
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24844e3a2dc1b6f5967ddea8b0b0befc65f2e252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/ce8348f970de25b60b14f45a5d6ba96de0f1ad63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ad2eab057d10394c07d9be826b101c45360e5f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/6067635bc00560dabca2304cb8f1f272cee9213f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d457cad398303367fc77be6814898712a28e2843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/b41beffd0da54b24422d983cdd5533cb0cedf5ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7024f7f62c0de21538252c8168a74605680aeb8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/6a6f8116eb1a3f3d36c62ef4a7bd7be2270f5b35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98b5604702f2cf59095ccbcd7d6ef7b1ceec37bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1bb1c33ec3a8f82e6396de40a5e7437b5b377bf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bff8a6dece40f401f9b9fc03dc36a5d624d2748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/268fa59a8913c8478a29c957e200c5cae0a2a5fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db146ee85db0b72b3b8e34675a7280a41f93997a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -439,179 +421,197 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
         <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcbcfeb96a6e7b53b8172b1a216b9c9f1b676fed/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/dd50e72f2dba7fec022d0a6a2f242a15f1b32cc4/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/7f4df5daa8379787bf76db427b9c97dfbe9e3d1c/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_d210028dc439405d5b1ea3ddf2832b666bcc1a9a.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f1b255f6377cc89a8ebdbc9d166d90925221fb9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/3b875f3e743cfa8e6ceab7d679336a39497cb6e0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_611413b68bcbd87347f236d6efa4cd0194d38e46.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/fe0776550217b92c4d1660a3a0c512d9ab72f904/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9336c7f17f390db126d7246559b5288f03c54523.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/1e810aa9fae1d066000e0801ba23a49b8934d680/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_bca2f106cfef006cfb7b504bbcb1ed25dab9e35b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/7518f54dc07e8c4357f4df3899ef4565f2fc66d6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_85aed373397fe8e363525ebcc7fad6b04f3b5a59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/a3bcd04914d4ec81038396744e4092d01215250c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_8f23b720ca7366d04e992545722ac7d7fc39b178.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/207855e0342d7f1b944bdbebbaa57b0d66127321/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_92c3feb0cdc03ade6d329e4b637d54da7ac62c86.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/891f0be2a38da090488fed6be01c6b46ecea0264/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/a6c2a78fcd8055490d5f53972b0b5ebfef1cd5dc/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_8dd1a01587490eb1cbd2f2cc2cb25d9d1d8132c6.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8327b7ea95751500d4a38c30cd8d1c72a7849fbe/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5aa99b2b89eb7137811d6ac0c3fc2a9c1b049b26/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/d92be416fa9c1db61aa135b40594e5454c56657d/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="c76804333008c855433cad5cfd1256e86045e97b">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a0a8a22eb811bd09ccda9dd3a38cd7a832072d2c.jar" />
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bea375414f9fa3cd78e71987271cbdfd1d6b63a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/52a9eb1756b7b79476db7ebac8fb49ff892419c1/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/9e78c8016325352d57ace39520129729ee338c0c/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_3b9fa5a0713106e803c36bd298bd8021c09783f2.jar" />
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac09a5571c3ea6f38d8792716a150b856925077c/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/b0d0e7360bc3dfd1d02251aa27db6054fd85736f/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/b7f3b641b349f449906d18942088592848e0ff81/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_af127b4d066c3d95b7c9f50620f5559ec35d8161.jar" />
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f0a23f65cbc81d7cd1953bc5b3d9bed3f82e9c5/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5597bc84d6a09ef4f0ee190e291d33ef1ab7225e/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/33276ca2bec185dd8f6d385d61c2b5bc5311cb66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10492c0f00b8ad7499ac1fc19a1d8077dd868046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/54fe6da555ca2b99fc53b4faa8047f6167413701/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f5fb35d31707fa6ea022ae830d68a922acb0880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/3105eb69838f1335707dd1cf3344832242c10952/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c106882375b61ad9a659992eda16a87f90a85d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/f406c4ce3258574eb155ff0393b5ffbe18f410fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7958e73b1121069d3df86a159d3282e95950268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/9bd0376443a5f807cc5574137e729523fc05efbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160e221158609b9f9897185a0f86a23da226f318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/c5d76f21033b70d4b1ec82fd9cd77213d6443593/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b8387979a39a6a5b22e78626435e9d40d90437e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/1ff3507c0244414df662b6db4f3898e69a68e77b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb7068c5ce954b35ab551d520075c054197c98a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/0aaa7786e09ca70d8d9d4317a635a4deea221e40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1775e7e0d1317bbd6859a0c6660563ac06291e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/280884e568ec44568e497de02cbc8305308cef76/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_a808ab0d9a9e1966f2f9c2fbc7725b890537fb72.jar" />
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56d23c2ce2c0478ff12170a8ab893540c65e3195/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/8344ceca7bb5ca3251d4c6906b9ce02299611570/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/01a73e3d484bfdefee19fbf079de289a56030610/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_da0d7400d4b8dcf2a317ceceb132c51d54021844.jar" />
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5741cb8d1379125ee171ee767711048f0bb691d8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/ff93e4352e0e69b7cb9926849338f7c26efd1d6e/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/563a3b814fb875e2860af98adc1e6cf4e2ec4a56/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_ccf1b00e771bb7174ad7c1037f7b7e9c342f002f.jar" />
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20a57ecd3b65b7ee65f458f28d656df74310e798/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/9c5502dc459671126b494cde5c1adf042a5ee47b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/38043b5272c3b67a963c6a47c50c78aa30f649fe/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_fc77a5457593fb652cadbcbcc404625dec10bf84.jar" />
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_455c052880cdfb7442eeb105cbd73c2eba53fe77/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/a14385da289be2658999b3ffe9ee06b933a4083b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/42f9218f15869757684c7530cf0238b0399524b7/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_9af04793fba5f7bebf9c65974f756b9739aba4e0.jar" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39ae215aa399b18bbb7c20d599e6b508405e21b7/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/6fce41f190f07efaffe558d78ce870cd4aa329df/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/d69a3c48a2ee58a85fce70a9a74485e322c895e5/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_ed23a18ba83aa787408e5a9d917f332482178746.jar" />
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7b78027c7e4e3efa797ae8e17750e35628a2491/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/5194f56ec862d1cc742731ab39d1d6ce854cda97/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/a1d0d0814b65dd38007f7b9b6fa2dd13a414948d/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_b34761f9d0702b40dad1f09a480b39c77a5f9ed0.jar" />
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_361abd9bce1b87630ec763e53591766803d698e6/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/anuj/.android/build-cache/db59ec62fab61566b04bbf39eb7163e9de6acac4/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/8dc4f0773a2f5a901e73476570a38eaf3e9852af/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/pre-dexed/debug/classes_d6a7464fc000c11360135d4f3deece8f3b87aa4a.jar" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08cd6b975afcfbd702b777effe7a8cea0320fa21/classes.dex" />
     </item>
 
 </items>

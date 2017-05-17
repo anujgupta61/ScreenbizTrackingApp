@@ -1,7 +1,7 @@
-#Mon May 08 13:16:25 IST 2017
-base.0=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcbcfeb96a6e7b53b8172b1a216b9c9f1b676fed
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f5409be94d50d3613def9fde9fb99a7b1c509b/classes.dex
-base.1=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f5409be94d50d3613def9fde9fb99a7b1c509b
-file.0=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dcbcfeb96a6e7b53b8172b1a216b9c9f1b676fed/classes.dex
+#Wed May 17 22:59:01 IST 2017
+base.0=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+base.1=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/home/anuj/AndroidStudioProjects/ScreenbizTrackingApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex
