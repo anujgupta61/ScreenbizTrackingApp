@@ -1,2 +1,2 @@
 # ScreenbizTrackingApp
-![Logo](http://francky.me/images/quora001.png)
+This application is used to track live location of technicians in Screenbiz Technologies.
