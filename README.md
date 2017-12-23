@@ -1,2 +1,2 @@
 # ScreenbizTrackingApp
-![Logo](https://www.screenbiz.in/images/mainLogo_white.png)
+![Logo](http://francky.me/images/quora001.png)
